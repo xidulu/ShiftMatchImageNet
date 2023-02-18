@@ -1,0 +1,561 @@
+,corruption,level,method,acc,ll
+0,gaussian_noise,1,SM 1000,0.67146,-1.4015906
+1,shot_noise,1,SM 1000,0.67028,-1.4094156
+2,impulse_noise,1,SM 1000,0.6185,-1.6728506
+3,defocus_blur,1,SM 1000,0.66096,-1.453932
+4,glass_blur,1,SM 1000,0.64054,-1.548922
+5,motion_blur,1,SM 1000,0.72202,-1.1663991
+6,zoom_blur,1,SM 1000,0.67814,-1.3608956
+7,snow,1,SM 1000,0.63152,-1.6022943
+8,frost,1,SM 1000,0.65302,-1.5056806
+9,fog,1,SM 1000,0.71404,-1.1915998
+10,brightness,1,SM 1000,0.72998,-1.1255587
+11,contrast,1,SM 1000,0.72454,-1.1492715
+12,elastic_transform,1,SM 1000,0.68114,-1.3545269
+13,pixelate,1,SM 1000,0.72112,-1.1685724
+14,jpeg_compression,1,SM 1000,0.69344,-1.2943599
+15,gaussian_blur,1,SM 1000,0.71958,-1.1719309
+16,gaussian_noise,2,SM 1000,0.61782,-1.6789827
+17,shot_noise,2,SM 1000,0.61084,-1.7146484
+18,impulse_noise,2,SM 1000,0.55334,-2.0217469
+19,defocus_blur,2,SM 1000,0.59006,-1.8277987
+20,glass_blur,2,SM 1000,0.53544,-2.1145241
+21,motion_blur,2,SM 1000,0.70002,-1.265851
+22,zoom_blur,2,SM 1000,0.64822,-1.5059203
+23,snow,2,SM 1000,0.53776,-2.150217
+24,frost,2,SM 1000,0.55794,-2.0526013
+25,fog,2,SM 1000,0.70622,-1.227289
+26,brightness,2,SM 1000,0.72114,-1.1692107
+27,contrast,2,SM 1000,0.71722,-1.176447
+28,elastic_transform,2,SM 1000,0.50936,-2.4314556
+29,pixelate,2,SM 1000,0.70796,-1.2305658
+30,jpeg_compression,2,SM 1000,0.6685,-1.4094671
+31,gaussian_blur,2,SM 1000,0.58876,-1.8249722
+32,gaussian_noise,3,SM 1000,0.52826,-2.1795554
+33,shot_noise,3,SM 1000,0.53376,-2.1610053
+34,impulse_noise,3,SM 1000,0.49972,-2.347631
+35,defocus_blur,3,SM 1000,0.43272,-2.7726786
+36,glass_blur,3,SM 1000,0.33962,-3.3971431
+37,motion_blur,3,SM 1000,0.65576,-1.4702115
+38,zoom_blur,3,SM 1000,0.62916,-1.6029999
+39,snow,3,SM 1000,0.52752,-2.2034235
+40,frost,3,SM 1000,0.47846,-2.54303
+41,fog,3,SM 1000,0.69086,-1.2948521
+42,brightness,3,SM 1000,0.70604,-1.2397145
+43,contrast,3,SM 1000,0.70468,-1.2339956
+44,elastic_transform,3,SM 1000,0.67574,-1.3847783
+45,pixelate,3,SM 1000,0.65026,-1.5036334
+46,jpeg_compression,3,SM 1000,0.65002,-1.500869
+47,gaussian_blur,3,SM 1000,0.4265,-2.810686
+48,gaussian_noise,4,SM 1000,0.4054,-2.9652028
+49,shot_noise,4,SM 1000,0.39228,-3.069665
+50,impulse_noise,4,SM 1000,0.3715,-3.2231867
+51,defocus_blur,4,SM 1000,0.31524,-3.5942087
+52,glass_blur,4,SM 1000,0.26532,-3.9681196
+53,motion_blur,4,SM 1000,0.58896,-1.8278686
+54,zoom_blur,4,SM 1000,0.60014,-1.7491693
+55,snow,4,SM 1000,0.44258,-2.7360325
+56,frost,4,SM 1000,0.46522,-2.6267543
+57,fog,4,SM 1000,0.6757,-1.3697205
+58,brightness,4,SM 1000,0.6844,-1.3420707
+59,contrast,4,SM 1000,0.66274,-1.4448315
+60,elastic_transform,4,SM 1000,0.62926,-1.6257912
+61,pixelate,4,SM 1000,0.51524,-2.2307456
+62,jpeg_compression,4,SM 1000,0.5892,-1.8181417
+63,gaussian_blur,4,SM 1000,0.30256,-3.7304387
+64,gaussian_noise,5,SM 1000,0.24512,-4.2184863
+65,shot_noise,5,SM 1000,0.29232,-3.8318856
+66,impulse_noise,5,SM 1000,0.2356,-4.3280196
+67,defocus_blur,5,SM 1000,0.2245,-4.3656363
+68,glass_blur,5,SM 1000,0.1624,-4.920878
+69,motion_blur,5,SM 1000,0.5337,-2.131607
+70,zoom_blur,5,SM 1000,0.57436,-1.8891338
+71,snow,5,SM 1000,0.44182,-2.7590506
+72,frost,5,SM 1000,0.41264,-2.9939218
+73,fog,5,SM 1000,0.63486,-1.5865432
+74,brightness,5,SM 1000,0.65346,-1.4881551
+75,contrast,5,SM 1000,0.5438,-2.0837302
+76,elastic_transform,5,SM 1000,0.47922,-2.5054772
+77,pixelate,5,SM 1000,0.42542,-2.8112378
+78,jpeg_compression,5,SM 1000,0.49822,-2.3365512
+79,gaussian_blur,5,SM 1000,0.14926,-5.1369143
+80,gaussian_noise,1,SM 5000,0.67592,-1.3837057
+81,shot_noise,1,SM 5000,0.67354,-1.3893856
+82,impulse_noise,1,SM 5000,0.6212,-1.6538928
+83,defocus_blur,1,SM 5000,0.66696,-1.426611
+84,glass_blur,1,SM 5000,0.64604,-1.5157287
+85,motion_blur,1,SM 5000,0.7264,-1.1478628
+86,zoom_blur,1,SM 5000,0.68352,-1.337114
+87,snow,1,SM 5000,0.63636,-1.579138
+88,frost,1,SM 5000,0.65766,-1.4875187
+89,fog,1,SM 5000,0.71692,-1.1733129
+90,brightness,1,SM 5000,0.73282,-1.1109476
+91,contrast,1,SM 5000,0.72744,-1.1328989
+92,elastic_transform,1,SM 5000,0.68588,-1.3337641
+93,pixelate,1,SM 5000,0.72386,-1.1515459
+94,jpeg_compression,1,SM 5000,0.69666,-1.2744489
+95,gaussian_blur,1,SM 5000,0.72344,-1.154867
+96,gaussian_noise,2,SM 5000,0.62202,-1.656131
+97,shot_noise,2,SM 5000,0.61468,-1.6905833
+98,impulse_noise,2,SM 5000,0.55736,-1.9987237
+99,defocus_blur,2,SM 5000,0.59584,-1.7961054
+100,glass_blur,2,SM 5000,0.54458,-2.067459
+101,motion_blur,2,SM 5000,0.7054,-1.2425653
+102,zoom_blur,2,SM 5000,0.65366,-1.4759903
+103,snow,2,SM 5000,0.54072,-2.1201034
+104,frost,2,SM 5000,0.56132,-2.0259318
+105,fog,2,SM 5000,0.7107,-1.2100198
+106,brightness,2,SM 5000,0.72312,-1.15381
+107,contrast,2,SM 5000,0.7209,-1.1595091
+108,elastic_transform,2,SM 5000,0.51468,-2.3936322
+109,pixelate,2,SM 5000,0.71004,-1.2113185
+110,jpeg_compression,2,SM 5000,0.67278,-1.3870561
+111,gaussian_blur,2,SM 5000,0.59434,-1.7915771
+112,gaussian_noise,3,SM 5000,0.53258,-2.1509044
+113,shot_noise,3,SM 5000,0.53822,-2.133069
+114,impulse_noise,3,SM 5000,0.50364,-2.3256645
+115,defocus_blur,3,SM 5000,0.43838,-2.730457
+116,glass_blur,3,SM 5000,0.34778,-3.3364263
+117,motion_blur,3,SM 5000,0.66152,-1.4382476
+118,zoom_blur,3,SM 5000,0.63442,-1.5704662
+119,snow,3,SM 5000,0.53386,-2.1696415
+120,frost,3,SM 5000,0.4815,-2.5124803
+121,fog,3,SM 5000,0.69492,-1.2745545
+122,brightness,3,SM 5000,0.70928,-1.2228959
+123,contrast,3,SM 5000,0.70828,-1.2162963
+124,elastic_transform,3,SM 5000,0.67956,-1.3581684
+125,pixelate,3,SM 5000,0.6547,-1.4759412
+126,jpeg_compression,3,SM 5000,0.65474,-1.4783643
+127,gaussian_blur,3,SM 5000,0.43246,-2.7613368
+128,gaussian_noise,4,SM 5000,0.41216,-2.9298508
+129,shot_noise,4,SM 5000,0.39708,-3.0361493
+130,impulse_noise,4,SM 5000,0.3746,-3.2010834
+131,defocus_blur,4,SM 5000,0.3218,-3.5494075
+132,glass_blur,4,SM 5000,0.27312,-3.907391
+133,motion_blur,4,SM 5000,0.597,-1.7805917
+134,zoom_blur,4,SM 5000,0.60762,-1.7145996
+135,snow,4,SM 5000,0.44764,-2.6953943
+136,frost,4,SM 5000,0.47094,-2.5951896
+137,fog,4,SM 5000,0.68028,-1.3505604
+138,brightness,4,SM 5000,0.68874,-1.3229178
+139,contrast,4,SM 5000,0.6667,-1.4265181
+140,elastic_transform,4,SM 5000,0.63456,-1.5890794
+141,pixelate,4,SM 5000,0.52212,-2.1866128
+142,jpeg_compression,4,SM 5000,0.59546,-1.7944821
+143,gaussian_blur,4,SM 5000,0.30742,-3.6880224
+144,gaussian_noise,5,SM 5000,0.24806,-4.18192
+145,shot_noise,5,SM 5000,0.29728,-3.79774
+146,impulse_noise,5,SM 5000,0.2371,-4.3042235
+147,defocus_blur,5,SM 5000,0.22756,-4.322284
+148,glass_blur,5,SM 5000,0.16702,-4.869547
+149,motion_blur,5,SM 5000,0.54272,-2.0749779
+150,zoom_blur,5,SM 5000,0.58262,-1.8508586
+151,snow,5,SM 5000,0.44556,-2.7235317
+152,frost,5,SM 5000,0.41644,-2.9615343
+153,fog,5,SM 5000,0.6385,-1.5658078
+154,brightness,5,SM 5000,0.6585,-1.4647796
+155,contrast,5,SM 5000,0.54552,-2.065659
+156,elastic_transform,5,SM 5000,0.48594,-2.4525144
+157,pixelate,5,SM 5000,0.43372,-2.7606962
+158,jpeg_compression,5,SM 5000,0.50214,-2.3140678
+159,gaussian_blur,5,SM 5000,0.15124,-5.112431
+160,gaussian_noise,1,SM 10000,0.67636,-1.3790869
+161,shot_noise,1,SM 10000,0.67518,-1.3842237
+162,impulse_noise,1,SM 10000,0.6228,-1.6468339
+163,defocus_blur,1,SM 10000,0.66826,-1.4207162
+164,glass_blur,1,SM 10000,0.64776,-1.5079588
+165,motion_blur,1,SM 10000,0.7265,-1.1438353
+166,zoom_blur,1,SM 10000,0.68504,-1.3315912
+167,snow,1,SM 10000,0.63802,-1.5726213
+168,frost,1,SM 10000,0.65904,-1.4820968
+169,fog,1,SM 10000,0.71724,-1.1706687
+170,brightness,1,SM 10000,0.73302,-1.1071123
+171,contrast,1,SM 10000,0.72814,-1.1292201
+172,elastic_transform,1,SM 10000,0.68636,-1.329788
+173,pixelate,1,SM 10000,0.7249,-1.1471195
+174,jpeg_compression,1,SM 10000,0.69672,-1.2702277
+175,gaussian_blur,1,SM 10000,0.72442,-1.1501698
+176,gaussian_noise,2,SM 10000,0.62248,-1.6501472
+177,shot_noise,2,SM 10000,0.61628,-1.6834725
+178,impulse_noise,2,SM 10000,0.55826,-1.9900665
+179,defocus_blur,2,SM 10000,0.5966,-1.7885019
+180,glass_blur,2,SM 10000,0.54624,-2.0550692
+181,motion_blur,2,SM 10000,0.70644,-1.2373756
+182,zoom_blur,2,SM 10000,0.65508,-1.4695219
+183,snow,2,SM 10000,0.54256,-2.1130984
+184,frost,2,SM 10000,0.56258,-2.0187738
+185,fog,2,SM 10000,0.71178,-1.2074281
+186,brightness,2,SM 10000,0.72412,-1.1498909
+187,contrast,2,SM 10000,0.72138,-1.1561308
+188,elastic_transform,2,SM 10000,0.51434,-2.3867636
+189,pixelate,2,SM 10000,0.71246,-1.206117
+190,jpeg_compression,2,SM 10000,0.67284,-1.381676
+191,gaussian_blur,2,SM 10000,0.59628,-1.7836921
+192,gaussian_noise,3,SM 10000,0.5334,-2.1428843
+193,shot_noise,3,SM 10000,0.53946,-2.1248941
+194,impulse_noise,3,SM 10000,0.50532,-2.316107
+195,defocus_blur,3,SM 10000,0.43976,-2.718434
+196,glass_blur,3,SM 10000,0.35066,-3.3199263
+197,motion_blur,3,SM 10000,0.66396,-1.4319631
+198,zoom_blur,3,SM 10000,0.63526,-1.5635053
+199,snow,3,SM 10000,0.53478,-2.163796
+200,frost,3,SM 10000,0.48354,-2.5042496
+201,fog,3,SM 10000,0.69512,-1.2716731
+202,brightness,3,SM 10000,0.71026,-1.2185088
+203,contrast,3,SM 10000,0.70882,-1.2124718
+204,elastic_transform,3,SM 10000,0.6809,-1.3524386
+205,pixelate,3,SM 10000,0.65534,-1.4692667
+206,jpeg_compression,3,SM 10000,0.65514,-1.4726685
+207,gaussian_blur,3,SM 10000,0.43472,-2.7503846
+208,gaussian_noise,4,SM 10000,0.41348,-2.9191413
+209,shot_noise,4,SM 10000,0.39862,-3.0258756
+210,impulse_noise,4,SM 10000,0.37632,-3.1881053
+211,defocus_blur,4,SM 10000,0.32402,-3.536301
+212,glass_blur,4,SM 10000,0.27464,-3.8937674
+213,motion_blur,4,SM 10000,0.59686,-1.7724862
+214,zoom_blur,4,SM 10000,0.6096,-1.7071309
+215,snow,4,SM 10000,0.4486,-2.6898575
+216,frost,4,SM 10000,0.4707,-2.5866637
+217,fog,4,SM 10000,0.68108,-1.3478494
+218,brightness,4,SM 10000,0.68918,-1.3182112
+219,contrast,4,SM 10000,0.66738,-1.4221959
+220,elastic_transform,4,SM 10000,0.63772,-1.5822068
+221,pixelate,4,SM 10000,0.52438,-2.1765091
+222,jpeg_compression,4,SM 10000,0.59748,-1.7882434
+223,gaussian_blur,4,SM 10000,0.30932,-3.675316
+224,gaussian_noise,5,SM 10000,0.2497,-4.170772
+225,shot_noise,5,SM 10000,0.29848,-3.7872102
+226,impulse_noise,5,SM 10000,0.23854,-4.2904844
+227,defocus_blur,5,SM 10000,0.23006,-4.307876
+228,glass_blur,5,SM 10000,0.16802,-4.855642
+229,motion_blur,5,SM 10000,0.54402,-2.064264
+230,zoom_blur,5,SM 10000,0.58428,-1.8423909
+231,snow,5,SM 10000,0.44646,-2.7197125
+232,frost,5,SM 10000,0.41784,-2.9522896
+233,fog,5,SM 10000,0.63886,-1.5627894
+234,brightness,5,SM 10000,0.65942,-1.4593269
+235,contrast,5,SM 10000,0.54586,-2.058653
+236,elastic_transform,5,SM 10000,0.4875,-2.4406292
+237,pixelate,5,SM 10000,0.43468,-2.7498767
+238,jpeg_compression,5,SM 10000,0.50432,-2.3080122
+239,gaussian_blur,5,SM 10000,0.15126,-5.100789
+240,gaussian_noise,1,SM 100000,0.67684,-1.3767084
+241,shot_noise,1,SM 100000,0.6759,-1.3821796
+242,impulse_noise,1,SM 100000,0.62308,-1.6436583
+243,defocus_blur,1,SM 100000,0.6687,-1.4183651
+244,glass_blur,1,SM 100000,0.64918,-1.5042115
+245,motion_blur,1,SM 100000,0.72676,-1.1416875
+246,zoom_blur,1,SM 100000,0.6854,-1.3291405
+247,snow,1,SM 100000,0.63836,-1.5695021
+248,frost,1,SM 100000,0.65854,-1.4804524
+249,fog,1,SM 100000,0.7178,-1.1692349
+250,brightness,1,SM 100000,0.73356,-1.1055303
+251,contrast,1,SM 100000,0.72912,-1.1276743
+252,elastic_transform,1,SM 100000,0.68638,-1.3276137
+253,pixelate,1,SM 100000,0.7245,-1.1454403
+254,jpeg_compression,1,SM 100000,0.69722,-1.2676412
+255,gaussian_blur,1,SM 100000,0.72508,-1.1484289
+256,gaussian_noise,2,SM 100000,0.62292,-1.6470397
+257,shot_noise,2,SM 100000,0.61724,-1.6811124
+258,impulse_noise,2,SM 100000,0.55834,-1.9874427
+259,defocus_blur,2,SM 100000,0.59696,-1.7845199
+260,glass_blur,2,SM 100000,0.54672,-2.0503168
+261,motion_blur,2,SM 100000,0.70712,-1.2344626
+262,zoom_blur,2,SM 100000,0.65536,-1.4665884
+263,snow,2,SM 100000,0.54294,-2.1094308
+264,frost,2,SM 100000,0.5624,-2.0159419
+265,fog,2,SM 100000,0.71154,-1.2058816
+266,brightness,2,SM 100000,0.72422,-1.1480769
+267,contrast,2,SM 100000,0.72246,-1.1545492
+268,elastic_transform,2,SM 100000,0.51486,-2.3824894
+269,pixelate,2,SM 100000,0.712,-1.2037661
+270,jpeg_compression,2,SM 100000,0.67346,-1.3789831
+271,gaussian_blur,2,SM 100000,0.59736,-1.7802223
+272,gaussian_noise,3,SM 100000,0.53408,-2.1399295
+273,shot_noise,3,SM 100000,0.54036,-2.1222732
+274,impulse_noise,3,SM 100000,0.50588,-2.3124723
+275,defocus_blur,3,SM 100000,0.44026,-2.7129283
+276,glass_blur,3,SM 100000,0.35014,-3.3150024
+277,motion_blur,3,SM 100000,0.66416,-1.4279425
+278,zoom_blur,3,SM 100000,0.6366,-1.5600518
+279,snow,3,SM 100000,0.5348,-2.1595151
+280,frost,3,SM 100000,0.48418,-2.4997702
+281,fog,3,SM 100000,0.6959,-1.2704753
+282,brightness,3,SM 100000,0.71082,-1.2166933
+283,contrast,3,SM 100000,0.70852,-1.2111288
+284,elastic_transform,3,SM 100000,0.68132,-1.3497101
+285,pixelate,3,SM 100000,0.65554,-1.4657793
+286,jpeg_compression,3,SM 100000,0.6554,-1.4698493
+287,gaussian_blur,3,SM 100000,0.43424,-2.7456598
+288,gaussian_noise,4,SM 100000,0.41292,-2.9158049
+289,shot_noise,4,SM 100000,0.3989,-3.0228653
+290,impulse_noise,4,SM 100000,0.3765,-3.183888
+291,defocus_blur,4,SM 100000,0.32582,-3.5302005
+292,glass_blur,4,SM 100000,0.27484,-3.8879392
+293,motion_blur,4,SM 100000,0.59916,-1.7652284
+294,zoom_blur,4,SM 100000,0.61052,-1.7026103
+295,snow,4,SM 100000,0.4496,-2.6849525
+296,frost,4,SM 100000,0.47154,-2.582443
+297,fog,4,SM 100000,0.68152,-1.3463656
+298,brightness,4,SM 100000,0.68944,-1.3163636
+299,contrast,4,SM 100000,0.66804,-1.4189404
+300,elastic_transform,4,SM 100000,0.6372,-1.5785898
+301,pixelate,4,SM 100000,0.52664,-2.172294
+302,jpeg_compression,4,SM 100000,0.59732,-1.7861682
+303,gaussian_blur,4,SM 100000,0.30928,-3.674091
+304,gaussian_noise,5,SM 100000,0.2499,-4.1673126
+305,shot_noise,5,SM 100000,0.2991,-3.7831833
+306,impulse_noise,5,SM 100000,0.23956,-4.2857356
+307,defocus_blur,5,SM 100000,0.23086,-4.3022585
+308,glass_blur,5,SM 100000,0.1687,-4.8494368
+309,motion_blur,5,SM 100000,0.54552,-2.0565536
+310,zoom_blur,5,SM 100000,0.58496,-1.83856
+311,snow,5,SM 100000,0.44676,-2.7163332
+312,frost,5,SM 100000,0.41844,-2.947593
+313,fog,5,SM 100000,0.63882,-1.5605428
+314,brightness,5,SM 100000,0.65914,-1.4566847
+315,contrast,5,SM 100000,0.54664,-2.0553625
+316,elastic_transform,5,SM 100000,0.48912,-2.4347765
+317,pixelate,5,SM 100000,0.43568,-2.7462277
+318,jpeg_compression,5,SM 100000,0.50462,-2.305426
+319,gaussian_blur,5,SM 100000,0.15156,-5.09818
+320,gaussian_noise,1,Baseline,0.63668,-1.630099
+321,gaussian_noise,1,SM (Full),0.67688,-1.3775396
+322,gaussian_noise,1,BN,0.68148,-1.337341
+323,shot_noise,1,Baseline,0.62432,-1.6987547
+324,shot_noise,1,SM (Full),0.67582,-1.3821039
+325,shot_noise,1,BN,0.67602,-1.3693087
+326,impulse_noise,1,Baseline,0.53514,-2.3072808
+327,impulse_noise,1,SM (Full),0.62306,-1.6440043
+328,impulse_noise,1,BN,0.63186,-1.5802722
+329,defocus_blur,1,Baseline,0.6048,-1.723111
+330,defocus_blur,1,SM (Full),0.6681,-1.4192659
+331,defocus_blur,1,BN,0.657,-1.4431027
+332,glass_blur,1,Baseline,0.54158,-2.1163151
+333,glass_blur,1,SM (Full),0.64848,-1.503866
+334,glass_blur,1,BN,0.6481,-1.4993565
+335,motion_blur,1,Baseline,0.66322,-1.4695632
+336,motion_blur,1,SM (Full),0.7265,-1.1416849
+337,motion_blur,1,BN,0.72236,-1.1497673
+338,zoom_blur,1,Baseline,0.5178,-2.299135
+339,zoom_blur,1,SM (Full),0.68524,-1.329753
+340,zoom_blur,1,BN,0.63266,-1.5625519
+341,snow,1,Baseline,0.56022,-2.1370378
+342,snow,1,SM (Full),0.6389,-1.5694853
+343,snow,1,BN,0.63086,-1.611618
+344,frost,1,Baseline,0.62582,-1.6947908
+345,frost,1,SM (Full),0.65878,-1.4803412
+346,frost,1,BN,0.65948,-1.4812162
+347,fog,1,Baseline,0.65512,-1.5037696
+348,fog,1,SM (Full),0.71766,-1.1686509
+349,fog,1,BN,0.71776,-1.1654418
+350,brightness,1,Baseline,0.74098,-1.094546
+351,brightness,1,SM (Full),0.73374,-1.1051131
+352,brightness,1,BN,0.73898,-1.0802989
+353,contrast,1,Baseline,0.66474,-1.4535592
+354,contrast,1,SM (Full),0.7293,-1.1271126
+355,contrast,1,BN,0.72404,-1.1443994
+356,elastic_transform,1,Baseline,0.67154,-1.4032406
+357,elastic_transform,1,SM (Full),0.68578,-1.328214
+358,elastic_transform,1,BN,0.68672,-1.3205415
+359,pixelate,1,Baseline,0.70044,-1.2478166
+360,pixelate,1,SM (Full),0.7247,-1.1453179
+361,pixelate,1,BN,0.73076,-1.1149542
+362,jpeg_compression,1,Baseline,0.6706,-1.4220818
+363,jpeg_compression,1,SM (Full),0.69744,-1.2678756
+364,jpeg_compression,1,BN,0.70136,-1.2344451
+365,gaussian_blur,1,Baseline,0.68342,-1.3293989
+366,gaussian_blur,1,SM (Full),0.72478,-1.1484814
+367,gaussian_blur,1,BN,0.71926,-1.1562378
+368,gaussian_noise,2,Baseline,0.54888,-2.1502326
+369,gaussian_noise,2,SM (Full),0.6232,-1.6474534
+370,gaussian_noise,2,BN,0.62312,-1.6281571
+371,shot_noise,2,Baseline,0.5137,-2.380242
+372,shot_noise,2,SM (Full),0.6181,-1.6795751
+373,shot_noise,2,BN,0.60434,-1.7399415
+374,impulse_noise,2,Baseline,0.45464,-2.7903872
+375,impulse_noise,2,SM (Full),0.55848,-1.9888253
+376,impulse_noise,2,BN,0.56526,-1.9343793
+377,defocus_blur,2,Baseline,0.53128,-2.1182394
+378,defocus_blur,2,SM (Full),0.5968,-1.7853006
+379,defocus_blur,2,BN,0.5722,-1.8704563
+380,glass_blur,2,Baseline,0.40954,-2.9761064
+381,glass_blur,2,SM (Full),0.5471,-2.0475652
+382,glass_blur,2,BN,0.54862,-2.0169606
+383,motion_blur,2,Baseline,0.5512,-2.0661983
+384,motion_blur,2,SM (Full),0.70708,-1.2346997
+385,motion_blur,2,BN,0.6883,-1.3030413
+386,zoom_blur,2,Baseline,0.418,-3.003932
+387,zoom_blur,2,SM (Full),0.6551,-1.4673918
+388,zoom_blur,2,BN,0.57434,-1.8536444
+389,snow,2,Baseline,0.34266,-3.8310704
+390,snow,2,SM (Full),0.54286,-2.1097882
+391,snow,2,BN,0.51322,-2.2948437
+392,frost,2,Baseline,0.469,-2.7284553
+393,frost,2,SM (Full),0.56282,-2.0154603
+394,frost,2,BN,0.55294,-2.076195
+395,fog,2,Baseline,0.61376,-1.7249756
+396,fog,2,SM (Full),0.71124,-1.2052741
+397,fog,2,BN,0.70478,-1.2180583
+398,brightness,2,Baseline,0.72392,-1.1754686
+399,brightness,2,SM (Full),0.72466,-1.1476585
+400,brightness,2,BN,0.73088,-1.1207529
+401,contrast,2,Baseline,0.60654,-1.7628208
+402,contrast,2,SM (Full),0.72164,-1.1542677
+403,contrast,2,BN,0.71016,-1.2027622
+404,elastic_transform,2,Baseline,0.44128,-3.0710678
+405,elastic_transform,2,SM (Full),0.5149,-2.3832104
+406,elastic_transform,2,BN,0.50764,-2.3954709
+407,pixelate,2,Baseline,0.6722,-1.3882757
+408,pixelate,2,SM (Full),0.71228,-1.2039018
+409,pixelate,2,BN,0.71576,-1.1730291
+410,jpeg_compression,2,Baseline,0.64476,-1.5558769
+411,jpeg_compression,2,SM (Full),0.67388,-1.3787304
+412,jpeg_compression,2,BN,0.6783,-1.3549943
+413,gaussian_blur,2,Baseline,0.56148,-1.9548413
+414,gaussian_blur,2,SM (Full),0.59726,-1.7793587
+415,gaussian_blur,2,BN,0.608,-1.693794
+416,gaussian_noise,3,Baseline,0.38884,-3.2859492
+417,gaussian_noise,3,SM (Full),0.53478,-2.1409874
+418,gaussian_noise,3,BN,0.52044,-2.2080486
+419,shot_noise,3,Baseline,0.36004,-3.580183
+420,shot_noise,3,SM (Full),0.53878,-2.121068
+421,shot_noise,3,BN,0.50786,-2.3084528
+422,impulse_noise,3,Baseline,0.367,-3.4761336
+423,impulse_noise,3,SM (Full),0.50548,-2.3140059
+424,impulse_noise,3,BN,0.50952,-2.2731574
+425,defocus_blur,3,Baseline,0.38936,-2.9848711
+426,defocus_blur,3,SM (Full),0.43974,-2.7133586
+427,defocus_blur,3,BN,0.40586,-2.8535855
+428,glass_blur,3,Baseline,0.1709,-5.3004193
+429,glass_blur,3,SM (Full),0.35064,-3.3086517
+430,glass_blur,3,BN,0.35392,-3.2607484
+431,motion_blur,3,Baseline,0.3667,-3.336976
+432,motion_blur,3,SM (Full),0.66452,-1.4277315
+433,motion_blur,3,BN,0.61844,-1.6436737
+434,zoom_blur,3,Baseline,0.35134,-3.5209
+435,zoom_blur,3,SM (Full),0.63736,-1.5608187
+436,zoom_blur,3,BN,0.5402,-2.0465064
+437,snow,3,Baseline,0.36434,-3.7051518
+438,snow,3,SM (Full),0.53478,-2.1600099
+439,snow,3,BN,0.5035,-2.3281481
+440,frost,3,Baseline,0.3506,-3.6544077
+441,frost,3,SM (Full),0.48386,-2.4988594
+442,frost,3,BN,0.46784,-2.6076913
+443,fog,3,Baseline,0.56034,-2.0185068
+444,fog,3,SM (Full),0.69558,-1.2700127
+445,fog,3,BN,0.68502,-1.3048449
+446,brightness,3,Baseline,0.69438,-1.31632
+447,brightness,3,SM (Full),0.71108,-1.2161716
+448,brightness,3,BN,0.71428,-1.1893224
+449,contrast,3,Baseline,0.49682,-2.4261246
+450,contrast,3,SM (Full),0.70888,-1.2109764
+451,contrast,3,BN,0.68094,-1.3317587
+452,elastic_transform,3,Baseline,0.57312,-2.0081158
+453,elastic_transform,3,SM (Full),0.68118,-1.3495663
+454,elastic_transform,3,BN,0.67396,-1.3865619
+455,pixelate,3,Baseline,0.6264,-1.6254562
+456,pixelate,3,SM (Full),0.65584,-1.4668614
+457,pixelate,3,BN,0.68834,-1.3018893
+458,jpeg_compression,3,Baseline,0.62538,-1.6655642
+459,jpeg_compression,3,SM (Full),0.65578,-1.470029
+460,jpeg_compression,3,BN,0.65724,-1.4581617
+461,gaussian_blur,3,Baseline,0.4289,-2.7395399
+462,gaussian_blur,3,SM (Full),0.4357,-2.7453308
+463,gaussian_blur,3,BN,0.43918,-2.6365159
+464,gaussian_noise,4,Baseline,0.19138,-5.456345
+465,gaussian_noise,4,SM (Full),0.41288,-2.9169986
+466,gaussian_noise,4,BN,0.3786,-3.1106045
+467,shot_noise,4,Baseline,0.1418,-6.5481787
+468,shot_noise,4,SM (Full),0.39894,-3.0192804
+469,shot_noise,4,BN,0.34106,-3.4600108
+470,impulse_noise,4,Baseline,0.17,-5.7833138
+471,impulse_noise,4,SM (Full),0.37642,-3.1862504
+472,impulse_noise,4,BN,0.36586,-3.1898375
+473,defocus_blur,4,Baseline,0.27184,-3.8662703
+474,defocus_blur,4,SM (Full),0.32598,-3.5300767
+475,defocus_blur,4,BN,0.2682,-3.8251064
+476,glass_blur,4,Baseline,0.12606,-5.8589497
+477,glass_blur,4,SM (Full),0.27534,-3.8832228
+478,glass_blur,4,BN,0.27508,-3.7980993
+479,motion_blur,4,Baseline,0.19058,-5.0473104
+480,motion_blur,4,SM (Full),0.60004,-1.7647855
+481,motion_blur,4,BN,0.51226,-2.2124567
+482,zoom_blur,4,Baseline,0.28144,-4.1419973
+483,zoom_blur,4,SM (Full),0.61188,-1.7032354
+484,zoom_blur,4,BN,0.48894,-2.3505116
+485,snow,4,Baseline,0.24564,-4.858527
+486,snow,4,SM (Full),0.44938,-2.6862228
+487,snow,4,BN,0.41278,-2.9099169
+488,frost,4,Baseline,0.32946,-3.8906262
+489,frost,4,SM (Full),0.47134,-2.58168
+490,frost,4,BN,0.45654,-2.6870232
+491,fog,4,Baseline,0.53544,-2.1795352
+492,fog,4,SM (Full),0.68164,-1.3456106
+493,fog,4,BN,0.67184,-1.3714206
+494,brightness,4,Baseline,0.65014,-1.5411032
+495,brightness,4,SM (Full),0.68914,-1.3153807
+496,brightness,4,BN,0.692,-1.2927709
+497,contrast,4,Baseline,0.26116,-4.227257
+498,contrast,4,SM (Full),0.66832,-1.4190866
+499,contrast,4,BN,0.58644,-1.8293797
+500,elastic_transform,4,Baseline,0.43584,-3.022717
+501,elastic_transform,4,SM (Full),0.6371,-1.579079
+502,elastic_transform,4,BN,0.61994,-1.6645478
+503,pixelate,4,Baseline,0.56754,-1.9580418
+504,pixelate,4,SM (Full),0.5269,-2.1726673
+505,pixelate,4,BN,0.62248,-1.6112258
+506,jpeg_compression,4,Baseline,0.55686,-2.0548956
+507,jpeg_compression,4,SM (Full),0.59696,-1.7867498
+508,jpeg_compression,4,BN,0.58314,-1.8345462
+509,gaussian_blur,4,Baseline,0.30252,-3.6498327
+510,gaussian_blur,4,SM (Full),0.30956,-3.6692393
+511,gaussian_blur,4,BN,0.28666,-3.6840768
+512,gaussian_noise,5,Baseline,0.04516,-9.211263
+513,gaussian_noise,5,SM (Full),0.24844,-4.1669893
+514,gaussian_noise,5,BN,0.21276,-4.394394
+515,shot_noise,5,Baseline,0.05614,-9.235824
+516,shot_noise,5,SM (Full),0.3003,-3.779127
+517,shot_noise,5,BN,0.23084,-4.3729844
+518,impulse_noise,5,Baseline,0.0474,-8.998858
+519,impulse_noise,5,SM (Full),0.23962,-4.2936287
+520,impulse_noise,5,BN,0.21988,-4.3012705
+521,defocus_blur,5,Baseline,0.17912,-4.684313
+522,defocus_blur,5,SM (Full),0.23026,-4.3035374
+523,defocus_blur,5,BN,0.17604,-4.633177
+524,glass_blur,5,Baseline,0.08922,-6.274812
+525,glass_blur,5,SM (Full),0.16928,-4.8427963
+526,glass_blur,5,BN,0.1695,-4.688305
+527,motion_blur,5,Baseline,0.1167,-6.0999613
+528,motion_blur,5,SM (Full),0.5444,-2.055487
+529,motion_blur,5,BN,0.43572,-2.6802828
+530,zoom_blur,5,Baseline,0.21884,-4.8133125
+531,zoom_blur,5,SM (Full),0.5849,-1.8387803
+532,zoom_blur,5,BN,0.44204,-2.6349692
+533,snow,5,Baseline,0.18872,-5.621557
+534,snow,5,SM (Full),0.44626,-2.7159948
+535,snow,5,BN,0.39994,-3.0318155
+536,frost,5,Baseline,0.26412,-4.5573997
+537,frost,5,SM (Full),0.41822,-2.9466386
+538,frost,5,BN,0.39888,-3.0777442
+539,fog,5,Baseline,0.42872,-2.94009
+540,fog,5,SM (Full),0.63932,-1.559454
+541,fog,5,BN,0.63428,-1.5701402
+542,brightness,5,Baseline,0.58176,-1.9038479
+543,brightness,5,SM (Full),0.65982,-1.4559747
+544,brightness,5,BN,0.65964,-1.4448003
+545,contrast,5,Baseline,0.07978,-6.289021
+546,contrast,5,SM (Full),0.54616,-2.0573456
+547,contrast,5,BN,0.3659,-3.2267144
+548,elastic_transform,5,Baseline,0.1729,-5.7806597
+549,elastic_transform,5,SM (Full),0.48844,-2.4375553
+550,elastic_transform,5,BN,0.47902,-2.5034745
+551,pixelate,5,Baseline,0.51598,-2.2651615
+552,pixelate,5,SM (Full),0.43576,-2.744997
+553,pixelate,5,BN,0.56312,-1.9284769
+554,jpeg_compression,5,Baseline,0.44362,-2.7747009
+555,jpeg_compression,5,SM (Full),0.50362,-2.3074331
+556,jpeg_compression,5,BN,0.47508,-2.4697847
+557,gaussian_blur,5,Baseline,0.13176,-5.402998
+558,gaussian_blur,5,SM (Full),0.15182,-5.092942
+559,gaussian_blur,5,BN,0.11816,-5.216315

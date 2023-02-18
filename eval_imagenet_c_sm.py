@@ -72,7 +72,6 @@ for level in levels:
             y = t['label']
             X = input_sm_func(X, INPUT_EPS)
             X = hm.resnet.preprocess_input(X)
-            # print(X.shape)
             preds, _ = model.apply(params, sm_state, None, X, is_training=True,
                             sm_mode='match', **sm_config)
             total += len(X)
