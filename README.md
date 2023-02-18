@@ -12,14 +12,23 @@ Experiments are based on the ResNet implementation and checkpoint provided by ht
 `jax`
 
 ## How to run
-The plain "SGD" baseline results can be acquired by calling
-`python eval_imagenet_c_baseline.py`
+The plain "SGD" baseline results can be acquired by calling 
+
+```python eval_imagenet_c_baseline.py```
 
 The "BatchNorm" baseline results can be acquired by calling
-`python eval_imagenet_c_bn.py`
+
+```python eval_imagenet_c_bn.py```
 
 The "ShiftMatch 1,280K (Full training set)" results can be acquired by calling
-`python eval_imagenet_c_sm.py -l 1 2 3 4 5`
+
+```python eval_imagenet_c_sm.py -l 1 2 3 4 5```
+
+The results for using varying sizes of training data subset can be acquired by calling
+
+```python eval_imagenet_c_sm_small.py -s TRAIN_SET_SIZE -l 1 2 3 4 5```
+
+where `TRAIN_SET_SIZE` can be chosen among `[1000, 5000, 10000, 100000]`
 
 The prediction from each method will then be stored in `./logs`.
 
